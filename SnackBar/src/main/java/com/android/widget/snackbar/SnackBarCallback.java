@@ -4,7 +4,7 @@ import com.google.android.material.snackbar.BaseTransientBottomBar;
 
 /**
  * date        ：2021/9/18
- * author      ：蒙景博
+ * author      ：秦川小将
  * description ：Callback中添加了SnackBar消失动作
  */
 public abstract class SnackBarCallback extends BaseTransientBottomBar.BaseCallback<SnackBar> {

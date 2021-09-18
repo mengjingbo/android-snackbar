@@ -9,7 +9,7 @@ import androidx.annotation.DrawableRes;
 
 /**
  * date        ：2021/9/18
- * author      ：蒙景博
+ * author      ：秦川小将
  * description ：
  */
 public interface SnackBarDispatcher<T> {
